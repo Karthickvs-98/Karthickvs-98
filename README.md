@@ -18,7 +18,7 @@
 ## Let's Connect!
 
 - 📍 Reach me via **[GitHub](https://github.com/Karthickvs-98)**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthick-v-s-6870b9338)**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthick-v-s-6870b9338)
 - 📬 Open to full-time and remote opportunities in **data analytics & database roles**
 
 ---
